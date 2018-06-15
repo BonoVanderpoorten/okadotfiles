@@ -23,6 +23,7 @@ antigen apply
 alias vi="vim"
 alias la="ls -la"
 alias cdu="cd .."
+alias cdh="cd ~"
 
 
 
